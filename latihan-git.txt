@@ -1,0 +1,3 @@
+latihan git
+membuat akun github
+mengetahui command dasar
